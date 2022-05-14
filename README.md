@@ -1,2 +1,2 @@
-# MasterMind
- Proyecto Software
+# Mastermind
+ Proyecto Final Software
